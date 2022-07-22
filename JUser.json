@@ -1,0 +1,77 @@
+[{
+		"id": 1,
+		"name": "Edward the Elder",
+		"country": "the United States",
+		"house": "White House",
+		"reign": "899-925",
+		"banner":"banner",
+		"banners": [{
+				"banner": "http://192.168.31.138:8888/fruits/chinese_goosebeery.png"
+			},
+			{
+				"banner": "http://192.168.31.138:8888/fruits/apple_green.png"
+			},
+			{
+				"banner": "http://192.168.31.138:8888/fruits/apple_red.png"
+			},
+			{
+				"banner": "http://192.168.31.138:8888/fruits/pumpkin.png"
+			},
+			{
+				"banner": "http://192.168.31.138:8888/fruits/pimiento.png"
+			}
+		],
+		"imageUrl": "http://192.168.31.138:8888/fruits/hami_melon.png",
+		"spanSize": 4
+	},
+	{
+		"id": 2,
+		"name": "Athelstan",
+		"country": "United Kingdom",
+		"house": "House of Wessex",
+		"reign": "925-940",
+		"imageUrl": "http://192.168.31.138:8888/fruits/lemon.png",
+		"spanSize": 2
+	},
+	{
+		"id": 3,
+		"name": "Edmund",
+		"country": "Australian",
+		"reign": "940-946",
+		"imageUrl": "http://192.168.31.138:8888/fruits/orange.png",
+		"spanSize": 2
+	},
+	{
+		"id": 4,
+		"name": "Edred",
+		"country": "China",
+		"house": "House of Beijing",
+		"reign": "946-955",
+		"spanSize": 4
+	},
+	{
+		"id": 5,
+		"name": "Edwy",
+		"country": "UK",
+		"house": "lasa",
+		"reign": "955-959",
+		"imageUrl": "http://192.168.31.138:8888/fruits/tomato.png",
+		"spanSize": 4
+	},{
+		"id": 6,
+		"name": "Edwy",
+		"country": "UK",
+		"house": "lasa",
+		"reign": "955-959",
+		"imageUrl": "http://192.168.31.138:8888/fruits/tomato.png",
+		"spanSize": 4
+	},
+	{
+		"id": 7,
+		"name": "Edmund",
+		"country": "Australian",
+		"reign": "940-946",
+		"imageUrl": "http://192.168.31.138:8888/fruits/orange.png",
+		"spanSize": 2
+	}
+]
